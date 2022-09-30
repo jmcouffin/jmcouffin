@@ -15,7 +15,7 @@
 - https://www.notion.so/HOW-TO-Guides-dc20e0e227b74d9bbc775699904152cb more advanced stuff with pyRevit
 - https://www.youtube.com/c/ErikFrits beginner, but good base for undertanding
 - https://www.youtube.com/c/pyRevit more advanced
-- lost of good bases https://www.youtube.com/c/DannyBentley/videos
+- lots of good bases https://www.youtube.com/c/DannyBentley/videos
 - and mine, the latest lab I presented: https://github.com/jmcouffin/pyRevit-BILT_NA_2022 in the handout section
 - the pyrevit community forum https://discourse.pyrevitlabs.io/
 - the pyrevit docs https://pyrevit1.readthedocs.io/en/latest/index.html
