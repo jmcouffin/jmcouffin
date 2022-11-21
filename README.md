@@ -24,6 +24,5 @@
 - loads of samples well commented here too https://github.com/Amoursol/dynamoPython
 - some nice stuff too from Gavin Grump https://www.youtube.com/c/AussieBIMGuru/playlists
 
-If you like what I do, you can support me
+If you like what I do, you can support me sending me a big fat wire transfer
 
-[![image](https://user-images.githubusercontent.com/7872003/190386440-3289a5b4-412c-4013-bc46-c5a5d2a1ecd8.png)](https://buymeacoffee.com/jmco)
