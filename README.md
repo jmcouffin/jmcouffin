@@ -5,7 +5,7 @@
 - :raising_hand: latest lab presented @ BCS2022 in Dublin and BILT-NA 2022 in LA https://github.com/jmcouffin/pyRevit-BILT_NA_2022
 
 - 💬 Ask me about anything
-- 📫 How to reach me: jmcouffin @ whatever, you will find me on linkedin and twitter
+- 📫 How to reach me: jmcouffin @ whatever, you will find me on linkedin
 - ⚡ Fun fact: Crazy
 
 
