@@ -22,5 +22,4 @@
 - loads of samples well commented here too https://github.com/Amoursol/dynamoPython
 - some nice stuff too from Gavin Grump https://www.youtube.com/c/AussieBIMGuru/playlists
 
-If you like what I do, you can support me sending me a big fat wire transfer
-
+If you like what I do, you can support me through the github sponsorship program.
