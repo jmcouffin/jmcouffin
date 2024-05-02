@@ -24,4 +24,4 @@
 
 If you like what I do, you can support me through the github sponsorship program.
 
-https://github.com/sponsors/jmcouffin/card
+https://github.com/sponsors/jmcouffin
